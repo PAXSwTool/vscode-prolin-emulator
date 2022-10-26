@@ -1,3 +1,7 @@
+prolinwebemulator_1.1.1.vsix released on October 25, 2022
+1. Adjust the web view layout, increases the height of the emulator page and enables the page to slide vertically.
+2. Solve the 'Command Palette -> Install App to Emulator' command running errors.
+
 prolinwebemulator_1.1.0.vsix released on October 8, 2022
- First official release.
- Also get it from VS Code Marketplace.
+1. First official release.
+2. Also get it from VS Code Marketplace.
