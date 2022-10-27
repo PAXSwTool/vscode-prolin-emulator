@@ -1,3 +1,7 @@
+prolinwebemulator_1.1.2.vsix released on October 27, 2022
+1. Show confirm and switch to a new emulator dialog when 'Open Emulator' button is clicked.
+2. It will show 'Open Emulator' text prompt when the mouse moves to the 'Open Emulator' button.
+
 prolinwebemulator_1.1.1.vsix released on October 25, 2022
 1. Adjust the web view layout, increases the height of the emulator page and enables the page to slide vertically.
 2. Solve the 'Command Palette -> Install App to Emulator' command running errors.
