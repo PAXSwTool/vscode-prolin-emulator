@@ -1,3 +1,6 @@
+prolinwebemulator_1.1.3.vsix released on October 28, 2022
+1. Refresh the emulator page when opening the same emulator by clicking the 'Open Emulator' button.
+
 prolinwebemulator_1.1.2.vsix released on October 27, 2022
 1. Show confirm and switch to a new emulator dialog when 'Open Emulator' button is clicked.
 2. It will show 'Open Emulator' text prompt when the mouse moves to the 'Open Emulator' button.
