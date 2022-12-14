@@ -1,3 +1,6 @@
+prolinwebemulator_1.1.6.vsix released on December 13, 2022
+1. Update README.md. 
+
 prolinwebemulator_1.1.5.vsix released on November 2, 2022
 1. Resolve the bugs introduced in the previous version.
 
